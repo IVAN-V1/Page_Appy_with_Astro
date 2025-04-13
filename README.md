@@ -8,18 +8,18 @@
 
 | capture 1 | capture 2 |  
 | -------- | -------- |
-| ![Ejemplo de imagen](./captures/capture1.png) | ![Ejemplo de imagen](./captures/capture2.png) |
+| ![Ejemplo de imagen](./captures/capture_1.png) | ![Ejemplo de imagen](./captures/capture_2.png) |
 | capture 3 | capture 4 |  
 | -------- | -------- |
-| ![Ejemplo de imagen](./captures/capture3.png) | ![Ejemplo de imagen](./captures/capture4.png) |
+| ![Ejemplo de imagen](./captures/capture_3.png) | ![Ejemplo de imagen](./captures/capture_4.png) |
 
 | capture 5 | capture 6 |  
 | -------- | -------- |
-| ![Ejemplo de imagen](./captures/capture5.png) | ![Ejemplo de imagen](./captures/capture6.png) |
+| ![Ejemplo de imagen](./captures/capture_5.png) | ![Ejemplo de imagen](./captures/capture_6.png) |
 
 | capture 7 
 | -------- 
-| ![Ejemplo de imagen](./captures/capture7.png)
+| ![Ejemplo de imagen](./captures/capture_7.png)
 
 
 
