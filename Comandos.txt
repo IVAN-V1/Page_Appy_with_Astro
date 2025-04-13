@@ -1,0 +1,13 @@
+
+
+pnpm create astro@latest
+
+
+cd .\astroPage\
+
+ pnpx astro add tailwind
+
+
+pnpm run dev 
+
+

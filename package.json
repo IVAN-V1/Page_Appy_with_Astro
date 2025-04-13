@@ -1,0 +1,19 @@
+{
+  "name": "pageastro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "optimize:all": "pnpm run optimize:images",
+    "preview": "astro preview",
+    "optimize:images": "for file in $(find . -name '*.png'); do cwebp -q 80 $file -o $file.webp; done;",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "^8.1.2",
+    "@tailwindcss/vite": "^4.0.14",
+    "astro": "^5.4.2",
+    "tailwindcss": "^4.0.14"
+  }
+}
